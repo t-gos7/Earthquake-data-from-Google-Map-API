@@ -1,4 +1,4 @@
-# Earthquake data using Google Map API
+# Interactive map to check earthquake data using Google Map API 
 
 * Created an interactive graphical map that displayed geo-spatial data, through Google Map API, using the unfolding maps library and essentials of data cleaning and data visualization. 
 
