@@ -1,5 +1,11 @@
 # Interactive map to check earthquake data using Google Map API 
 
+### Technologies used 
+- [X] Java, 
+- [X] UnfoldingMap API, 
+- [X] Processing library, 
+- [X] PApplet
+
 ## What an user can do with this interactive app
 
 1. Users can obtain a graphical representation of how each earthquake compares to other earthquakes along a certain parameter by entering a keyboard command.
