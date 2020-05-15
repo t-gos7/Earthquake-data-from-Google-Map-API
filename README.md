@@ -5,6 +5,7 @@
 - [X] UnfoldingMap API, 
 - [X] Processing library, 
 - [X] PApplet
+- [X] Google Map API
 
 ## What an user can do with this interactive app
 
@@ -18,7 +19,7 @@
 
 ## What I have used?
 
-* Created an interactive graphical map that displayed geo-spatial data, through Google Map API, using the unfolding maps library and essentials of data cleaning and data visualization. 
+* Created an interactive graphical map that displayed geo-spatial data, through Google Map API, using the unfolding maps library and essentials of data cleaning and data visualization. This application is flexible to change map provider, we can use Microsoft Map API if we reach daily call limit to the Google Map API. 
 
 * Used core object oriented programming principles like encapsulation, inheritance, polymorphism and abstraction. 
 
