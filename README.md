@@ -5,7 +5,6 @@
 - [X] UnfoldingMap API, 
 - [X] Processing library, 
 - [X] PApplet
-- [X] Google Map API
 
 ## What an user can do with this interactive app
 
