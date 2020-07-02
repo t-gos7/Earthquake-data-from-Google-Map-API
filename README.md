@@ -1,4 +1,4 @@
-# Interactive map to check earthquake data using Google Map API 
+# Interactive map to check earthquake data
 
 ### Technologies used 
 - [X] Java, 
