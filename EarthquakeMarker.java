@@ -1,4 +1,4 @@
-package module6;
+package EarthQuakeMap;
 
 import de.fhpotsdam.unfolding.data.PointFeature;
 import processing.core.PConstants;
@@ -6,8 +6,9 @@ import processing.core.PGraphics;
 
 /** Implements a visual marker for earthquakes on an earthquake map
  *
- * @author UC San Diego Intermediate Software Development MOOC team
- *
+ * An application with an interactive map displaying earthquake data.
+ * With help of UC San Diego Intermediate Software Development MOOC team
+ * @author Tarit Goswami
  */
 // TODO: Implement the comparable interface
 public abstract class EarthquakeMarker extends CommonMarker implements Comparable<EarthquakeMarker>
