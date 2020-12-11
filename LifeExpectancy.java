@@ -1,4 +1,4 @@
-package module6;
+package EarthQuakeMap;
 
 import processing.core.PApplet;
 import de.fhpotsdam.unfolding.UnfoldingMap;
