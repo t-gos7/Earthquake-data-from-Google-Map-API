@@ -1,4 +1,4 @@
-package module6;
+package EarthQuakeMap;
 
 import de.fhpotsdam.unfolding.UnfoldingMap;
 import de.fhpotsdam.unfolding.data.Feature;
@@ -20,8 +20,8 @@ import java.util.*;
 
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
- * Author: UC San Diego Intermediate Software Development MOOC team
- * @author salimt
+ * With help of UC San Diego Intermediate Software Development MOOC team
+ * @author Tarit Goswami
  * */
 public class EarthquakeCityMap extends PApplet {
 
