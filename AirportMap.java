@@ -1,4 +1,4 @@
-package module6;
+package EarthQuakeMap;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -15,11 +15,10 @@ import de.fhpotsdam.unfolding.geo.Location;
 import parsing.ParseFeed;
 import processing.core.PApplet;
 
-/** An applet that shows airports (and routes)
- * on a world map.  
- * @author Adam Setters and the UC San Diego Intermediate Software Development
- * MOOC team
- *
+/** An applet that shows airports (and routes) on a world map.  
+ * An application with an interactive map displaying earthquake data.
+ * With help of UC San Diego Intermediate Software Development MOOC team
+ * @author Tarit Goswami
  */
 public class AirportMap extends PApplet {
 
